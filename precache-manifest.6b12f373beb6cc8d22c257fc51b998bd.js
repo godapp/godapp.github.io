@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "568636d07253ad05729b",
-    "url": "/js/chunk-vendors.e4cb0a93.js"
+    "revision": "27d8899842a3fe6bc834",
+    "url": "/js/chunk-vendors.6b9470a2.js"
   },
   {
-    "revision": "c905d19edbc2d3c01115",
-    "url": "/js/app.78c4a81b.js"
+    "revision": "56b21beac5463ac56ad3",
+    "url": "/js/app.d5b8fc40.js"
   },
   {
-    "revision": "10c3ff1f242c25da0a654148d5fd864d",
+    "revision": "effcc3bd9300c82b4d6633f31eca3367",
     "url": "/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/img/blackjack_ret.2395beae.png"
   },
   {
-    "revision": "c905d19edbc2d3c01115",
+    "revision": "56b21beac5463ac56ad3",
     "url": "/css/app.b661e40c.css"
   }
 ];
