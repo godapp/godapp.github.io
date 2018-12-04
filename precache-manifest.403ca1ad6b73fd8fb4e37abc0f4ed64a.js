@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.6b9470a2.js"
   },
   {
-    "revision": "2035aa96497ead965b6e",
-    "url": "/js/app.c4f3c76b.js"
+    "revision": "33f36539ca79f68e88fe",
+    "url": "/js/app.92d68636.js"
   },
   {
-    "revision": "0e7fe3ce4c1d878b0643ab86900aa0cf",
+    "revision": "da7e775ac00b1aac07f39c30d7e459bb",
     "url": "/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/img/blackjack_ret.2395beae.png"
   },
   {
-    "revision": "2035aa96497ead965b6e",
-    "url": "/css/app.3c6a5ee2.css"
+    "revision": "33f36539ca79f68e88fe",
+    "url": "/css/app.1de94067.css"
   }
 ];
