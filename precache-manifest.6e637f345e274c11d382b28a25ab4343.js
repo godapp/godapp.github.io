@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/img/busted_ret.4c7e175e.png"
   },
   {
-    "revision": "bad9037563cbe89b5491",
-    "url": "/js/app.4a6bb4a2.js"
+    "revision": "bfc5044386c3ad57045e",
+    "url": "/js/app.72c04786.js"
   },
   {
     "revision": "3d45f26bcb2c3f473cf2d42761a428de",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/img/♦-K.44e90f3d.png"
   },
   {
-    "revision": "5167370bbc45c247d926304e8178fc08",
+    "revision": "d1e028e312a1609ed00b9c15f7f905af",
     "url": "/index.html"
   },
   {
-    "revision": "bad9037563cbe89b5491",
+    "revision": "bfc5044386c3ad57045e",
     "url": "/css/app.d90ffbad.css"
   }
 ];
