@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "e0051e6cf97164c7986702ac41e3ba01",
-    "url": "/img/bg.e0051e6c.jpg"
+    "revision": "20764b4ae3fcc5f4a4f6fa23673eddd8",
+    "url": "/img/♣-Q.20764b4a.png"
   },
   {
     "revision": "3ef0ab4f8ed0d28abee2",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/media/bg.78b94317.mp3"
   },
   {
-    "revision": "06746e9cb15c1d8f20db4e495aea705f",
-    "url": "/img/♠-K.06746e9c.png"
+    "revision": "3c8575fcf11b3ae56bba8da90542bbe3",
+    "url": "/img/♣-J.3c8575fc.png"
   },
   {
     "revision": "dd901f5d3257d5eff1d097972ff04a21",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/img/♥-Q.465a8564.png"
   },
   {
-    "revision": "2c1c16ac1f025fbb0a08dacccde96e52",
+    "revision": "45b3ed91deece36da207bfce1e800777",
     "url": "/index.html"
   },
   {
@@ -52,28 +52,24 @@ self.__precacheManifest = [
     "url": "/img/♥-J.6a44386f.png"
   },
   {
-    "revision": "20764b4ae3fcc5f4a4f6fa23673eddd8",
-    "url": "/img/♣-Q.20764b4a.png"
-  },
-  {
-    "revision": "c0e5e93442680119cb87",
-    "url": "/js/app.109fc284.js"
+    "revision": "d4f8a1615145dba07eeb",
+    "url": "/js/app.223dbed7.js"
   },
   {
     "revision": "e64812ef6d1fc8ed7f8fea6c1fbb35cc",
     "url": "/img/04.e64812ef.png"
   },
   {
-    "revision": "3d45f26bcb2c3f473cf2d42761a428de",
-    "url": "/img/cardBack.3d45f26b.png"
+    "revision": "6680788636d4d7d4166265cece93d792",
+    "url": "/img/sur.66807886.png"
+  },
+  {
+    "revision": "06746e9cb15c1d8f20db4e495aea705f",
+    "url": "/img/♠-K.06746e9c.png"
   },
   {
     "revision": "8633ce8109d8af87b6280dd9f8040a88",
     "url": "/img/♠-Q.8633ce81.png"
-  },
-  {
-    "revision": "3c8575fcf11b3ae56bba8da90542bbe3",
-    "url": "/img/♣-J.3c8575fc.png"
   },
   {
     "revision": "9d01f1bd996dcc4a29c86a6a71a9c30d",
@@ -88,16 +84,20 @@ self.__precacheManifest = [
     "url": "/img/lose.954d4d54.png"
   },
   {
-    "revision": "6680788636d4d7d4166265cece93d792",
-    "url": "/img/sur.66807886.png"
-  },
-  {
     "revision": "c3770e61749b9c10534222f8ce36d002",
     "url": "/img/jack_back.c3770e61.png"
   },
   {
     "revision": "091049b0ba2a4d5bee2d12d99e11ea6e",
     "url": "/img/draw.091049b0.png"
+  },
+  {
+    "revision": "3d45f26bcb2c3f473cf2d42761a428de",
+    "url": "/img/cardBack.3d45f26b.png"
+  },
+  {
+    "revision": "e0051e6cf97164c7986702ac41e3ba01",
+    "url": "/img/bg.e0051e6c.jpg"
   },
   {
     "revision": "4c7beb067f7e9bad7c8b361514e648b4",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/img/01.b42f8ab1.png"
   },
   {
-    "revision": "c0e5e93442680119cb87",
-    "url": "/css/app.1c70b94f.css"
+    "revision": "d4f8a1615145dba07eeb",
+    "url": "/css/app.5912c726.css"
   }
 ];
