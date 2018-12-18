@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/img/logo.db35d7e7.png"
   },
   {
-    "revision": "8abdcfcef2cd7d6feed363dc0371d427",
+    "revision": "f1dbb5d739bd09d0ff74a1eb57119188",
     "url": "/index.html"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/img/shake_three.6d1d6540.png"
   },
   {
-    "revision": "44e90f3d05189ebaf65ae0769a802b70",
-    "url": "/img/♦-K.44e90f3d.png"
-  },
-  {
     "revision": "b116738ebfdda5cdf22327f834ba8a62",
     "url": "/img/shake_four.b116738e.png"
+  },
+  {
+    "revision": "44e90f3d05189ebaf65ae0769a802b70",
+    "url": "/img/♦-K.44e90f3d.png"
   },
   {
     "revision": "15865f384500d09af50dfdd4995eb2a2",
@@ -112,20 +112,16 @@ self.__precacheManifest = [
     "url": "/img/success_seven.5cb7571d.png"
   },
   {
-    "revision": "169ef38569e1374ab09291c9033d0e69",
-    "url": "/img/success_number.169ef385.png"
-  },
-  {
     "revision": "3c64bcde56371a9b1c0d1afda43b7245",
     "url": "/img/fail.3c64bcde.png"
   },
   {
-    "revision": "728a6f49650b1266e17543ae3803852e",
-    "url": "/img/♥-K.728a6f49.png"
+    "revision": "169ef38569e1374ab09291c9033d0e69",
+    "url": "/img/success_number.169ef385.png"
   },
   {
-    "revision": "391a02922513d206e9851e3447f1283d",
-    "url": "/img/know_h.391a0292.png"
+    "revision": "728a6f49650b1266e17543ae3803852e",
+    "url": "/img/♥-K.728a6f49.png"
   },
   {
     "revision": "59bff3753d5dca1367a52c204d59d9f0",
@@ -136,6 +132,10 @@ self.__precacheManifest = [
     "url": "/img/invite_bg.854c6b5e.png"
   },
   {
+    "revision": "391a02922513d206e9851e3447f1283d",
+    "url": "/img/know_h.391a0292.png"
+  },
+  {
     "revision": "9704a8029c8a4c32acc2ee8137edadfc",
     "url": "/img/success_legend.9704a802.png"
   },
@@ -144,8 +144,8 @@ self.__precacheManifest = [
     "url": "/img/♣-Q.20764b4a.png"
   },
   {
-    "revision": "44d3b465cafe50e55dcb",
-    "url": "/js/app.bd88e230.js"
+    "revision": "2c16beb0b4884c35878d",
+    "url": "/js/app.65a96bbe.js"
   },
   {
     "revision": "5efed9e1c30b98cec1af87a428703883",
@@ -184,12 +184,12 @@ self.__precacheManifest = [
     "url": "/img/success_three.a3a092b9.png"
   },
   {
-    "revision": "1e6937fe472e5fb341c73cb4ce1a6077",
-    "url": "/img/login_n.1e6937fe.png"
-  },
-  {
     "revision": "58ecfd478eb6e79451b7d7c006b8be67",
     "url": "/img/macao.58ecfd47.png"
+  },
+  {
+    "revision": "1e6937fe472e5fb341c73cb4ce1a6077",
+    "url": "/img/login_n.1e6937fe.png"
   },
   {
     "revision": "c848bfe3aba5a875dd9774bb456d514b",
@@ -204,6 +204,10 @@ self.__precacheManifest = [
     "url": "/img/en.cc1ff648.png"
   },
   {
+    "revision": "26ba7209f6e5571652abebe492b43f0d",
+    "url": "/img/one_bg.26ba7209.png"
+  },
+  {
     "revision": "1964227004dbf5e3beba183d955037fd",
     "url": "/img/rule.19642270.png"
   },
@@ -212,28 +216,24 @@ self.__precacheManifest = [
     "url": "/img/last_bice.a0e8cc8c.png"
   },
   {
-    "revision": "26ba7209f6e5571652abebe492b43f0d",
-    "url": "/img/one_bg.26ba7209.png"
-  },
-  {
     "revision": "256af186d8c613f98467e08375147079",
     "url": "/img/two_bg.256af186.png"
   },
   {
-    "revision": "731bb8b55e662e2861f51b0f0c149e17",
-    "url": "/img/submit_h.731bb8b5.png"
-  },
-  {
-    "revision": "a2ebbd543186fd6848057f8c5372deb4",
-    "url": "/img/goBack.a2ebbd54.png"
+    "revision": "b83bbb004da32b01bc53bebcb2d1556c",
+    "url": "/img/submit_n.b83bbb00.png"
   },
   {
     "revision": "bdcaeae9f39ccaecd9d7f738bb73652f",
     "url": "/img/three_bg.bdcaeae9.png"
   },
   {
-    "revision": "b83bbb004da32b01bc53bebcb2d1556c",
-    "url": "/img/submit_n.b83bbb00.png"
+    "revision": "a2ebbd543186fd6848057f8c5372deb4",
+    "url": "/img/goBack.a2ebbd54.png"
+  },
+  {
+    "revision": "731bb8b55e662e2861f51b0f0c149e17",
+    "url": "/img/submit_h.731bb8b5.png"
   },
   {
     "revision": "2dcfbb9954da10001046a6f7fa3a6ca9",
@@ -280,8 +280,8 @@ self.__precacheManifest = [
     "url": "/img/01.b42f8ab1.png"
   },
   {
-    "revision": "44d3b465cafe50e55dcb",
-    "url": "/css/app.047f1e68.css"
+    "revision": "2c16beb0b4884c35878d",
+    "url": "/css/app.c96b12a7.css"
   },
   {
     "revision": "a8b05b262fba210bdb9212631ea6b2a8",
