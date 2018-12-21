@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="63px" viewBox="0 0 98 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>顺金</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,11 C6.66666667,11 11.6666667,11 15,11 C15.9909025,11 19.6575692,7.66666667 26,1 L70,1 L81,11 L98,11 L98,37 L82,37 L70,47 L25.2281075,47 L15,37 L0,37 L0,11 Z" id="path-1"></path>
+        <pattern id="pattern-2" width="100%" height="100%" patternUnits="objectBoundingBox">
+            <use xlink:href="#image-3" transform="scale(3.26666667,1.48387097)"></use>
+        </pattern>
+        <image id="image-3" width="30" height="31" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAAAXNSR0IArs4c6QAAAFNJREFUSA3tlsENACAIxCDx6wIO4f7bqSxRHpYFGsrlQs61TzTMeMxs4EaB3Rgx740RzQUx1ahqmwvRbaoRzQWxq1HVfiCIblONaC6IXY2q/usDuSkdEM5SjZ47AAAAAElFTkSuQmCC"></image>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.611368%" id="linearGradient-4">
+            <stop stop-color="#FFFD7F" offset="0%"></stop>
+            <stop stop-color="#DE8A13" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-83.3%" y="-120.0%" width="266.7%" height="340.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-83.3%" y="-120.0%" width="266.7%" height="340.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="iPhone-8-Copy-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-528.000000, -1355.000000)">
+        <g id="顺金" transform="translate(528.000000, 1363.000000)">
+            <g id="Rectangle-3" opacity="0.757586051">
+                <use fill="#000000" xlink:href="#path-1"></use>
+                <use fill="url(#pattern-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-5">
+                <g id="Group-4">
+                    <text id="顺金" fill="url(#linearGradient-4)" opacity="0.760133605" filter="url(#filter-6)" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400">
+                        <tspan x="30" y="30">顺金</tspan>
+                    </text>
+                    <text id="顺金" fill="url(#linearGradient-4)" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400">
+                        <tspan x="30" y="30">顺金</tspan>
+                    </text>
+                    <polygon id="Star-3" fill="url(#linearGradient-4)" points="86.7552826 26.5 83.8163563 28.045085 84.3776413 24.7725425 82 22.454915 85.2858195 21.9774575 86.7552826 19 88.2247457 21.9774575 91.5105652 22.454915 89.1329239 24.7725425 89.6942088 28.045085"></polygon>
+                    <polygon id="Star-3-Copy" fill="url(#linearGradient-4)" points="5.75528258 26.5 2.81635632 28.045085 3.37764129 24.7725425 1 22.454915 4.28581945 21.9774575 5.75528258 19 7.22474571 21.9774575 10.5105652 22.454915 8.13292387 24.7725425 8.69420884 28.045085"></polygon>
+                    <polyline id="Path-13" stroke="#E2AB26" transform="translate(49.000000, 6.000000) scale(1, -1) translate(-49.000000, -6.000000) " points="0 1 15 1 26 11 70 11 81 1 98 1"></polyline>
+                    <polygon id="Path-14" fill="#FFEA00" transform="translate(74.500000, 6.000000) scale(-1, -1) translate(-74.500000, -6.000000) " points="66.5 0.5 71 0.5 82.5 11.5 78 11.5"></polygon>
+                    <polygon id="Path-14" fill="#FFEA00" transform="translate(21.500000, 6.000000) scale(1, -1) translate(-21.500000, -6.000000) " points="13.5 0.5 18 0.5 29.5 11.5 25 11.5"></polygon>
+                    <polyline id="Path-13" stroke="#E2AB26" points="0 37 15 37 26 47 70 47 81 37 98 37"></polyline>
+                    <polygon id="Path-14" fill="#FFEA00" transform="translate(74.500000, 42.000000) scale(-1, 1) translate(-74.500000, -42.000000) " points="66.5 36.5 71 36.5 82.5 47.5 78 47.5"></polygon>
+                    <polygon id="Path-14" fill="#FFEA00" points="13.5 36.5 18 36.5 29.5 47.5 25 47.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
