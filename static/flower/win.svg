@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="74px" viewBox="0 0 114 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>win</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-45.0%" y="-116.7%" width="189.9%" height="333.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-23.3%" width="118.0%" height="146.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M0.18,0.296 L4.608,0.296 L9.612,20.312 L9.756,20.312 L15.012,0.296 L19.116,0.296 L24.372,20.312 L24.516,20.312 L29.52,0.296 L33.948,0.296 L26.532,26 L22.356,26 L17.136,6.164 L16.992,6.164 L11.772,26 L7.56,26 L0.18,0.296 Z M36.72,0.296 L40.608,0.296 L40.608,26 L36.72,26 L36.72,0.296 Z M45.72,0.296 L49.68,0.296 L62.82,19.412 L62.964,19.412 L62.964,0.296 L66.888,0.296 L66.888,26 L63.072,26 L49.788,6.668 L49.644,6.668 L49.644,26 L45.72,26 L45.72,0.296 Z" id="path-3"></path>
+    </defs>
+    <g id="iPhone-8-Copy-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-534.000000, -786.000000)">
+        <g id="Group-14" transform="translate(540.000000, 772.000000)">
+            <g id="Group-14-Copy" transform="translate(1.000000, 25.000000)">
+                <g id="win" transform="translate(15.000000, 8.000000)">
+                    <path d="M0.18,5.296 L4.608,5.296 L9.612,25.312 L9.756,25.312 L15.012,5.296 L19.116,5.296 L24.372,25.312 L24.516,25.312 L29.52,5.296 L33.948,5.296 L26.532,31 L22.356,31 L17.136,11.164 L16.992,11.164 L11.772,31 L7.56,31 L0.18,5.296 Z M36.72,5.296 L40.608,5.296 L40.608,31 L36.72,31 L36.72,5.296 Z M45.72,5.296 L49.68,5.296 L62.82,24.412 L62.964,24.412 L62.964,5.296 L66.888,5.296 L66.888,31 L63.072,31 L49.788,11.668 L49.644,11.668 L49.644,31 L45.72,31 L45.72,5.296 Z" id="WIN" fill="#42EDF8" filter="url(#filter-1)"></path>
+                    <path d="M0.18,5.296 L4.608,5.296 L9.612,25.312 L9.756,25.312 L15.012,5.296 L19.116,5.296 L24.372,25.312 L24.516,25.312 L29.52,5.296 L33.948,5.296 L26.532,31 L22.356,31 L17.136,11.164 L16.992,11.164 L11.772,31 L7.56,31 L0.18,5.296 Z M36.72,5.296 L40.608,5.296 L40.608,31 L36.72,31 L36.72,5.296 Z M45.72,5.296 L49.68,5.296 L62.82,24.412 L62.964,24.412 L62.964,5.296 L66.888,5.296 L66.888,31 L63.072,31 L49.788,11.668 L49.644,11.668 L49.644,31 L45.72,31 L45.72,5.296 Z" id="WIN" fill="#3D2E13" filter="url(#filter-2)"></path>
+                    <g id="Group-15" transform="translate(0.000000, 4.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="WIN" fill="#FCB116" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-8" fill="#FFE12F" mask="url(#mask-4)" x="-10" y="-7" width="97" height="20"></rect>
+                        <rect id="Rectangle-8" fill="#FB9401" mask="url(#mask-4)" x="-10" y="24" width="97" height="22"></rect>
+                        <rect id="Rectangle-8" fill="#FDFF6F" mask="url(#mask-4)" x="-10" y="-7" width="97" height="9"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
