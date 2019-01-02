@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.aa5927467ddb5ce0b2f2d2636f4a8d77.js"
+  "/precache-manifest.290aa4a57fa37153a3f6c21d8cd21ba4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "godapp"});
