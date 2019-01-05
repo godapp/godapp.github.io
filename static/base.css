@@ -5,7 +5,6 @@ html{
 html, body {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     border: 0;
-    font-family: "PingFang Regular", "微软雅黑", Arial, Helvetica, sans-serif;
     -webkit-text-size-adjust: 100%!important;
     -moz-text-size-adjust: 100%!important;
     -ms-text-size-adjust: 100%!important;
@@ -40,7 +39,6 @@ img {
     border: 0;
 }
 input, label, textarea {
-    font-family: "PingFang Regular", "微软雅黑";
     vertical-align: top;
 }
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{
@@ -136,7 +134,6 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{
 }
 .bold{
     font-weight: 600;
-    font-family: 'PingFangSC-Medium';
 }
 .light{
     font-weight: 400;
