@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="82px" viewBox="0 0 200 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>奖池开奖-BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#EC9603" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0.0953351449" offset="51.3711735%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-9.1%" y="-30.0%" width="118.2%" height="160.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-3">
+            <stop stop-color="#EC9603" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EC9603" offset="50.8569834%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.7%" y="-319.5%" width="127.5%" height="739.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="7.44419643" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="iPhone-8-Copy-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-449.000000, -314.000000)">
+        <g id="Group-16" transform="translate(449.000000, 325.000000)">
+            <g id="Group-6">
+                <g id="奖池开奖-BG">
+                    <rect id="Rectangle-5" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="0" y="0" width="198" height="60"></rect>
+                    <rect id="Rectangle-9-Copy-3" fill="url(#linearGradient-3)" x="0" y="0" width="160" height="2"></rect>
+                    <rect id="Rectangle-9-Copy-5" fill="url(#linearGradient-3)" x="1" y="58" width="195" height="2"></rect>
+                    <polygon id="Rectangle-9" fill="#EC9603" filter="url(#filter-4)" points="104.132231 26.5454545 184.46281 30.5392912 104.132231 33.5346687 21.8181818 30.5392912"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
