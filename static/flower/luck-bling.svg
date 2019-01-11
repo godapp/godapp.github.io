@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="325px" height="110px" viewBox="0 0 325 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="325px" height="93px" viewBox="0 0 325 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>Group 15</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="325" height="110"></rect>
-        <filter x="-3.8%" y="-11.3%" width="107.7%" height="122.6%" filterUnits="objectBoundingBox" id="filter-3">
+        <rect id="path-1" x="0" y="0" width="325" height="93"></rect>
+        <filter x="-3.8%" y="-13.4%" width="107.7%" height="126.8%" filterUnits="objectBoundingBox" id="filter-3">
             <feGaussianBlur stdDeviation="4.14899554" in="SourceGraphic"></feGaussianBlur>
         </filter>
     </defs>
-    <g id="iPhone-8-Copy-18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-25.000000, -285.000000)">
-        <g id="Group-15" transform="translate(25.000000, 285.000000)">
+    <g id="主界面-copy-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-25.000000, -275.000000)">
+        <g id="Group-15" transform="translate(25.000000, 275.000000)">
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
-            <g id="幸运一击闪动"></g>
-            <rect id="Rectangle-2-Copy-2" stroke="#178BFF" stroke-width="2" filter="url(#filter-3)" mask="url(#mask-2)" x="1" y="1" width="323" height="108"></rect>
+            <g id="Rectangle-2-Copy-2"></g>
+            <rect id="Rectangle-2-Copy-2" stroke="#178BFF" stroke-width="2" filter="url(#filter-3)" mask="url(#mask-2)" x="1" y="1" width="323" height="91"></rect>
         </g>
     </g>
 </svg>
