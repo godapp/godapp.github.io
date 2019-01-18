@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "b41c219672fd4e9ff549bd8ef2ce8e96",
-    "url": "/img/bigwinbet-bg.b41c2196.svg"
+    "revision": "bb35a75aa7d7dec8fc287fc1a22cd91a",
+    "url": "/img/big-winner-cn.bb35a75a.svg"
   },
   {
     "revision": "f9b02c20baf0f6374f20",
@@ -200,16 +200,16 @@ self.__precacheManifest = [
     "url": "/img/three_bg.bdcaeae9.png"
   },
   {
-    "revision": "a2ebbd543186fd6848057f8c5372deb4",
-    "url": "/img/goBack.a2ebbd54.png"
-  },
-  {
     "revision": "2dcfbb9954da10001046a6f7fa3a6ca9",
     "url": "/img/history.2dcfbb99.png"
   },
   {
     "revision": "1964227004dbf5e3beba183d955037fd",
     "url": "/img/rule.19642270.png"
+  },
+  {
+    "revision": "a2ebbd543186fd6848057f8c5372deb4",
+    "url": "/img/goBack.a2ebbd54.png"
   },
   {
     "revision": "26ba7209f6e5571652abebe492b43f0d",
@@ -352,16 +352,16 @@ self.__precacheManifest = [
     "url": "/img/player.a49f7d74.png"
   },
   {
+    "revision": "16d7bd83ec004a03fc5b95050c40b64b",
+    "url": "/img/algin_h.16d7bd83.png"
+  },
+  {
     "revision": "169ef38569e1374ab09291c9033d0e69",
     "url": "/img/success_number.169ef385.png"
   },
   {
     "revision": "bfb10f04f181980fdfb0a77dc7b7d276",
     "url": "/img/algin_n.bfb10f04.png"
-  },
-  {
-    "revision": "16d7bd83ec004a03fc5b95050c40b64b",
-    "url": "/img/algin_h.16d7bd83.png"
   },
   {
     "revision": "ee9745e9c5b16498c9cd6994cdc86b34",
@@ -460,12 +460,12 @@ self.__precacheManifest = [
     "url": "/img/betting-bg.9153d460.svg"
   },
   {
-    "revision": "daca94f3aa656fa505d6e100087284e7",
-    "url": "/img/red-bg.daca94f3.svg"
-  },
-  {
     "revision": "53af4ab27d37c4033f223d07526ea6d5",
     "url": "/img/blue-bg.53af4ab2.svg"
+  },
+  {
+    "revision": "daca94f3aa656fa505d6e100087284e7",
+    "url": "/img/red-bg.daca94f3.svg"
   },
   {
     "revision": "a561dcfb9cf81f503477255246b4a6d1",
@@ -480,12 +480,12 @@ self.__precacheManifest = [
     "url": "/img/luck-bling.29a5391c.svg"
   },
   {
-    "revision": "8d40e80221e6e37ecfd3f116ccca16fe",
-    "url": "/img/per-bg1.8d40e802.svg"
-  },
-  {
     "revision": "83a425d4284830989389ccdaae11b0b5",
     "url": "/img/per-bg2.83a425d4.svg"
+  },
+  {
+    "revision": "8d40e80221e6e37ecfd3f116ccca16fe",
+    "url": "/img/per-bg1.8d40e802.svg"
   },
   {
     "revision": "54cda1879a76037c50c98947e1a9baa0",
@@ -508,12 +508,12 @@ self.__precacheManifest = [
     "url": "/img/btn-5-b.1e3d2566.svg"
   },
   {
-    "revision": "5238d16f8d2c1aba9eccafcdbb0721f1",
-    "url": "/img/set-bg.5238d16f.svg"
-  },
-  {
     "revision": "303bd0e5d3f723b9c8145b48bea7f0f6",
     "url": "/img/music-on.303bd0e5.svg"
+  },
+  {
+    "revision": "5238d16f8d2c1aba9eccafcdbb0721f1",
+    "url": "/img/set-bg.5238d16f.svg"
   },
   {
     "revision": "1f0663e3764a6231a07683700997afbe",
@@ -544,20 +544,20 @@ self.__precacheManifest = [
     "url": "/img/copy-active.c84ee080.svg"
   },
   {
-    "revision": "405638d3d68fbbe1a966",
-    "url": "/js/app.670250b5.js"
+    "revision": "5c3613535350d9244c6f",
+    "url": "/js/app.16619443.js"
   },
   {
     "revision": "5efed9e1c30b98cec1af87a428703883",
     "url": "/img/success_two.5efed9e1.png"
   },
   {
-    "revision": "ebb0bb7cba299162064eb7f3535d0523",
-    "url": "/img/bigwinuser-bg.ebb0bb7c.svg"
+    "revision": "b41c219672fd4e9ff549bd8ef2ce8e96",
+    "url": "/img/bigwinbet-bg.b41c2196.svg"
   },
   {
-    "revision": "bb35a75aa7d7dec8fc287fc1a22cd91a",
-    "url": "/img/big-winner-cn.bb35a75a.svg"
+    "revision": "ebb0bb7cba299162064eb7f3535d0523",
+    "url": "/img/bigwinuser-bg.ebb0bb7c.svg"
   },
   {
     "revision": "45b96584346f03499a4664bbc2fd4841",
@@ -657,19 +657,15 @@ self.__precacheManifest = [
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation2.d54a473d.png"
-  },
-  {
-    "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation3.d54a473d.png"
-  },
-  {
-    "revision": "d54a473d3957366b99e2baf41056b5ef",
     "url": "/img/begin_animation1.d54a473d.png"
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
     "url": "/img/begin_animation4.d54a473d.png"
+  },
+  {
+    "revision": "d54a473d3957366b99e2baf41056b5ef",
+    "url": "/img/begin_animation2.d54a473d.png"
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
@@ -680,11 +676,15 @@ self.__precacheManifest = [
     "url": "/img/begin_animation6.d54a473d.png"
   },
   {
+    "revision": "d54a473d3957366b99e2baf41056b5ef",
+    "url": "/img/begin_animation3.d54a473d.png"
+  },
+  {
     "revision": "75eb511302a9f8c34361a63b76551e8d",
     "url": "/img/vs_logo.75eb5113.png"
   },
   {
-    "revision": "e55a0d717f72a3b137e8c0560f4974e4",
+    "revision": "6a2cda1788fbee6965da066976974b30",
     "url": "/index.html"
   },
   {
@@ -780,10 +780,6 @@ self.__precacheManifest = [
     "url": "/img/cards-bg1.12cf0e79.svg"
   },
   {
-    "revision": "e0c527a7bc2cc4c658d1e5cb98975f3d",
-    "url": "/img/red-def-card.e0c527a7.svg"
-  },
-  {
     "revision": "706659d40a6e737f3c0cc29607cd6506",
     "url": "/img/cards-bg2.706659d4.svg"
   },
@@ -792,16 +788,20 @@ self.__precacheManifest = [
     "url": "/img/blue-def-card.2efec9bd.svg"
   },
   {
+    "revision": "e0c527a7bc2cc4c658d1e5cb98975f3d",
+    "url": "/img/red-def-card.e0c527a7.svg"
+  },
+  {
     "revision": "a6eebba592e29ef55a098dae7c4029bb",
     "url": "/img/sj.a6eebba5.svg"
   },
   {
-    "revision": "0b99dccb3fe521221a23e432093c23d6",
-    "url": "/img/bz.0b99dccb.svg"
-  },
-  {
     "revision": "f4dbde3e6468287be9f2f492c75c7bbd",
     "url": "/img/sp.f4dbde3e.svg"
+  },
+  {
+    "revision": "0b99dccb3fe521221a23e432093c23d6",
+    "url": "/img/bz.0b99dccb.svg"
   },
   {
     "revision": "3bc8bf5c6588a26e166fd8f479f94c31",
@@ -816,12 +816,12 @@ self.__precacheManifest = [
     "url": "/img/sz.96e5c18f.svg"
   },
   {
-    "revision": "19838ed73e3c73f07232aedd16cf9622",
-    "url": "/img/en-jh.19838ed7.svg"
-  },
-  {
     "revision": "f87d5362746f4c714a02bd1959bafabe",
     "url": "/img/jh.f87d5362.svg"
+  },
+  {
+    "revision": "19838ed73e3c73f07232aedd16cf9622",
+    "url": "/img/en-jh.19838ed7.svg"
   },
   {
     "revision": "827a8db56b2c244f67587a1fb53ea00e",
@@ -1080,7 +1080,7 @@ self.__precacheManifest = [
     "url": "/img/0.5.ebe0c009.png"
   },
   {
-    "revision": "405638d3d68fbbe1a966",
+    "revision": "5c3613535350d9244c6f",
     "url": "/css/app.4f592ce1.css"
   },
   {
