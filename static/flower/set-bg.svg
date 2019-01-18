@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="346px" height="386px" viewBox="0 0 346 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>设置背景</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="设置-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-15.000000, -88.000000)">
+        <g id="Group" transform="translate(16.000000, 89.000000)">
+            <g id="设置背景">
+                <polygon id="Path-4" stroke="#17416B" stroke-width="0.5" fill="#000000" points="89 14.5 103 0 239 0 253 14.5 253 29 89 29"></polygon>
+                <polygon id="Path-15" stroke="#174069" stroke-width="0.5" fill="#000000" points="14 15 0 29 0 384 330 384 344 370 344 56 301 15 244 15 233 26 109 26 98 15"></polygon>
+                <polygon id="Path-5" fill="#42EDF8" points="98 15 102 15 113 26 109 26"></polygon>
+                <polygon id="Path-5-Copy" fill="#42EDF8" transform="translate(236.500000, 20.500000) scale(-1, 1) translate(-236.500000, -20.500000) " points="229 15 233 15 244 26 240 26"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
