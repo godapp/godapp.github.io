@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/precache-manifest.ffacaac71f09cdee9aa23a0b84ddabd8.js"
-=======
-  "/precache-manifest.3f433c184bde586cd73800e35355a6ee.js"
->>>>>>> fix bet limit
+  "/precache-manifest.9cdef9420bf97faf8222a4eb0e44bcb2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "godapp"});
