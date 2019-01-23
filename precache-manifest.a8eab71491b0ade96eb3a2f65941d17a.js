@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/img/waitRound_bg.bafa6caa.png"
   },
   {
-    "revision": "77a6ec9e49a804b7fad1727c67b3d8b6",
+    "revision": "da171aa86c2e115bacdc6cfaccd1ec25",
     "url": "/index.html"
   },
   {
@@ -212,12 +212,12 @@ self.__precacheManifest = [
     "url": "/img/sp.f4dbde3e.svg"
   },
   {
-    "revision": "a6eebba592e29ef55a098dae7c4029bb",
-    "url": "/img/sj.a6eebba5.svg"
-  },
-  {
     "revision": "256af186d8c613f98467e08375147079",
     "url": "/img/two_bg.256af186.png"
+  },
+  {
+    "revision": "a6eebba592e29ef55a098dae7c4029bb",
+    "url": "/img/sj.a6eebba5.svg"
   },
   {
     "revision": "731bb8b55e662e2861f51b0f0c149e17",
@@ -312,8 +312,8 @@ self.__precacheManifest = [
     "url": "/img/success_two.5efed9e1.png"
   },
   {
-    "revision": "e015ceff28e14be43a01",
-    "url": "/js/app.5a853c2a.js"
+    "revision": "8cb05f81a8aafc680d66",
+    "url": "/js/app.0789704d.js"
   },
   {
     "revision": "5238d16f8d2c1aba9eccafcdbb0721f1",
@@ -696,12 +696,12 @@ self.__precacheManifest = [
     "url": "/img/player1-en.02a33ab8.png"
   },
   {
-    "revision": "391a02922513d206e9851e3447f1283d",
-    "url": "/img/know_h.391a0292.png"
-  },
-  {
     "revision": "59bff3753d5dca1367a52c204d59d9f0",
     "url": "/img/know_n.59bff375.png"
+  },
+  {
+    "revision": "391a02922513d206e9851e3447f1283d",
+    "url": "/img/know_h.391a0292.png"
   },
   {
     "revision": "7b67579348b977d4a5794fd6f4b24f63",
@@ -892,12 +892,12 @@ self.__precacheManifest = [
     "url": "/img/luck-bg.a561dcfb.svg"
   },
   {
-    "revision": "827a8db56b2c244f67587a1fb53ea00e",
-    "url": "/img/en-sj.827a8db5.svg"
-  },
-  {
     "revision": "706659d40a6e737f3c0cc29607cd6506",
     "url": "/img/cards-bg2.706659d4.svg"
+  },
+  {
+    "revision": "827a8db56b2c244f67587a1fb53ea00e",
+    "url": "/img/en-sj.827a8db5.svg"
   },
   {
     "revision": "2efec9bd1324b5359104d22fd653d809",
@@ -933,7 +933,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation5.d54a473d.png"
+    "url": "/img/begin_animation6.d54a473d.png"
   },
   {
     "revision": "d6a58ce2c5b619bbc7230db62a99d7ea",
@@ -976,16 +976,16 @@ self.__precacheManifest = [
     "url": "/img/bet-user-bg.942696dc.svg"
   },
   {
-    "revision": "cb07c968b481d0a6880fc3c2bfc4183c",
-    "url": "/img/bg.cb07c968.png"
+    "revision": "ebb0bb7cba299162064eb7f3535d0523",
+    "url": "/img/bigwinuser-bg.ebb0bb7c.svg"
   },
   {
     "revision": "8c3a2e5e361ab2779f921bf198cbe36f",
     "url": "/img/bet3-disable.8c3a2e5e.svg"
   },
   {
-    "revision": "ebb0bb7cba299162064eb7f3535d0523",
-    "url": "/img/bigwinuser-bg.ebb0bb7c.svg"
+    "revision": "cb07c968b481d0a6880fc3c2bfc4183c",
+    "url": "/img/bg.cb07c968.png"
   },
   {
     "revision": "fb593fd0b95fc96a694590acd0416e04",
@@ -1033,11 +1033,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation1.d54a473d.png"
+    "url": "/img/begin_animation2.d54a473d.png"
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation4.d54a473d.png"
+    "url": "/img/begin_animation3.d54a473d.png"
   },
   {
     "revision": "ffbe3e5204b1610efb1f02acd9884ad5",
@@ -1057,11 +1057,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation3.d54a473d.png"
+    "url": "/img/begin_animation1.d54a473d.png"
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation6.d54a473d.png"
+    "url": "/img/begin_animation4.d54a473d.png"
   },
   {
     "revision": "475a05b66aed85860eee311299edd59e",
@@ -1077,7 +1077,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "d54a473d3957366b99e2baf41056b5ef",
-    "url": "/img/begin_animation2.d54a473d.png"
+    "url": "/img/begin_animation5.d54a473d.png"
   },
   {
     "revision": "dd655b616749a52adcf76dd11ef8c560",
@@ -1112,12 +1112,12 @@ self.__precacheManifest = [
     "url": "/img/banker6-en.fd9d4854.png"
   },
   {
-    "revision": "9366337d322439f15ffcac1383593e2c",
-    "url": "/img/banker8-en.9366337d.png"
-  },
-  {
     "revision": "c994cf972e5486170beabc6cea2edd56",
     "url": "/img/bankerWin_bg.c994cf97.png"
+  },
+  {
+    "revision": "9366337d322439f15ffcac1383593e2c",
+    "url": "/img/banker8-en.9366337d.png"
   },
   {
     "revision": "d448078e4daf582d97effff75c938b3b",
@@ -1148,8 +1148,8 @@ self.__precacheManifest = [
     "url": "/img/banker9-en.6ccbf5ce.png"
   },
   {
-    "revision": "bfb10f04f181980fdfb0a77dc7b7d276",
-    "url": "/img/algin_n.bfb10f04.png"
+    "revision": "bc62b619756b3b69e4c23cc6755215bf",
+    "url": "/img/banker2-en.bc62b619.png"
   },
   {
     "revision": "e535da8979355e7f8458512710a36453",
@@ -1172,44 +1172,8 @@ self.__precacheManifest = [
     "url": "/img/banker1-en.7a085bf7.png"
   },
   {
-    "revision": "bc62b619756b3b69e4c23cc6755215bf",
-    "url": "/img/banker2-en.bc62b619.png"
-  },
-  {
     "revision": "cce5a10586fad099d0809e185d6a44b3",
     "url": "/img/banker0-en.cce5a105.png"
-  },
-  {
-    "revision": "dd3f026b149458a6f14bdfc3f5f28ed1",
-    "url": "/img/active_dice.dd3f026b.png"
-  },
-  {
-    "revision": "cdeb3ff0390a035ff0fb19fb3f16916b",
-    "url": "/img/10.cdeb3ff0.png"
-  },
-  {
-    "revision": "3fdd38cf24ae9e59f3a645b195fd947d",
-    "url": "/img/back.3fdd38cf.png"
-  },
-  {
-    "revision": "61bf18ba66363828ef2a3903fc2d3f5f",
-    "url": "/img/HowtoPlay_en.61bf18ba.png"
-  },
-  {
-    "revision": "7ed21d7b7c0528dfec60334b6c09a3fb",
-    "url": "/img/HowtoPlay_cn.7ed21d7b.png"
-  },
-  {
-    "revision": "c8f4f42c2db5ac847cf6ae9815a2ecd2",
-    "url": "/img/GameHistory_en.c8f4f42c.png"
-  },
-  {
-    "revision": "ee6eb3948046ad3a54c15d90f5d0e95d",
-    "url": "/img/banker.ee6eb394.png"
-  },
-  {
-    "revision": "5e17070f3ca8ac310775a36d72d12602",
-    "url": "/img/GameHistory_cn.5e17070f.png"
   },
   {
     "revision": "0a44b3a85d94fff5ad7e52742478e5cb",
@@ -1220,31 +1184,67 @@ self.__precacheManifest = [
     "url": "/img/algin_h.16d7bd83.png"
   },
   {
-    "revision": "50dc4541878a271c2cddc0d93f9fc428",
-    "url": "/img/1.50dc4541.png"
+    "revision": "ee6eb3948046ad3a54c15d90f5d0e95d",
+    "url": "/img/banker.ee6eb394.png"
   },
   {
-    "revision": "4c7beb067f7e9bad7c8b361514e648b4",
-    "url": "/img/05.4c7beb06.png"
+    "revision": "bfb10f04f181980fdfb0a77dc7b7d276",
+    "url": "/img/algin_n.bfb10f04.png"
   },
   {
-    "revision": "e64812ef6d1fc8ed7f8fea6c1fbb35cc",
-    "url": "/img/04.e64812ef.png"
+    "revision": "3fdd38cf24ae9e59f3a645b195fd947d",
+    "url": "/img/back.3fdd38cf.png"
   },
   {
-    "revision": "b42f8ab13e1e02de507fd7f33d979d3a",
-    "url": "/img/01.b42f8ab1.png"
-  },
-  {
-    "revision": "51ef2d0ed299f1fa9882c11a4a8306cb",
-    "url": "/img/0.5.51ef2d0e.png"
+    "revision": "c8f4f42c2db5ac847cf6ae9815a2ecd2",
+    "url": "/img/GameHistory_en.c8f4f42c.png"
   },
   {
     "revision": "2e8ae345e6577dd1635ec385039719e1",
     "url": "/img/0.1.2e8ae345.png"
   },
   {
-    "revision": "e015ceff28e14be43a01",
+    "revision": "4c7beb067f7e9bad7c8b361514e648b4",
+    "url": "/img/05.4c7beb06.png"
+  },
+  {
+    "revision": "5e17070f3ca8ac310775a36d72d12602",
+    "url": "/img/GameHistory_cn.5e17070f.png"
+  },
+  {
+    "revision": "cdeb3ff0390a035ff0fb19fb3f16916b",
+    "url": "/img/10.cdeb3ff0.png"
+  },
+  {
+    "revision": "dd3f026b149458a6f14bdfc3f5f28ed1",
+    "url": "/img/active_dice.dd3f026b.png"
+  },
+  {
+    "revision": "e64812ef6d1fc8ed7f8fea6c1fbb35cc",
+    "url": "/img/04.e64812ef.png"
+  },
+  {
+    "revision": "51ef2d0ed299f1fa9882c11a4a8306cb",
+    "url": "/img/0.5.51ef2d0e.png"
+  },
+  {
+    "revision": "7ed21d7b7c0528dfec60334b6c09a3fb",
+    "url": "/img/HowtoPlay_cn.7ed21d7b.png"
+  },
+  {
+    "revision": "50dc4541878a271c2cddc0d93f9fc428",
+    "url": "/img/1.50dc4541.png"
+  },
+  {
+    "revision": "61bf18ba66363828ef2a3903fc2d3f5f",
+    "url": "/img/HowtoPlay_en.61bf18ba.png"
+  },
+  {
+    "revision": "b42f8ab13e1e02de507fd7f33d979d3a",
+    "url": "/img/01.b42f8ab1.png"
+  },
+  {
+    "revision": "8cb05f81a8aafc680d66",
     "url": "/css/app.ac6ce52d.css"
   },
   {
