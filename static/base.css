@@ -48,7 +48,6 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{
     border:0px;        /*火狐的私有属性去掉点击时边框*/
 }
 .flex {
-
     display: -webkit-flex;
     display: -webkit-box;
     display: -moz-box;
