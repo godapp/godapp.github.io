@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="39px" viewBox="0 0 36 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>筹码-1@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-52.2%" y="-20.0%" width="204.5%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0.611049107" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="主界面-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-99.000000, -543.000000)">
+        <g id="Group-9" transform="translate(23.000000, 539.000000)">
+            <g id="筹码-1" transform="translate(68.324144, 0.000000)">
+                <polygon id="Path-6" fill="#178FEC" points="25.7034221 3.95437262 25.7034221 8.40304183 38.5551331 16.8060837 43.0038023 13.8403042"></polygon>
+                <polygon id="Path-6-Copy-5" fill="#25AFEF" transform="translate(17.423954, 10.380228) scale(-1, 1) translate(-17.423954, -10.380228) " points="8.65019011 3.95437262 8.65019011 8.40304183 21.5019011 16.8060837 26.1977186 13.8403042"></polygon>
+                <polygon id="Path-6-Copy" fill="#0671E1" transform="translate(41.525030, 24.544516) rotate(-300.000000) translate(-41.525030, -24.544516) " points="32.87484 18.1186608 32.87484 22.56733 45.7265511 30.9703718 50.1752203 28.0045924"></polygon>
+                <polygon id="Path-6-Copy-4" fill="#168AE3" transform="translate(9.890049, 24.544516) scale(-1, 1) rotate(-300.000000) translate(-9.890049, -24.544516) " points="1.23985906 18.1186608 1.23985906 22.56733 14.0915701 30.9703718 18.5402393 28.0045924"></polygon>
+                <polygon id="Path-6-Copy-2" fill="#1D9CED" transform="translate(33.356404, 37.578490) rotate(-240.000000) translate(-33.356404, -37.578490) " points="24.99091 31.4391345 24.9867924 35.8806718 38.0286932 43.7178449 41.7260159 41.6419181"></polygon>
+                <polygon id="Path-6-Copy-3" fill="#25AFEF" transform="translate(18.016397, 37.541388) scale(-1, 1) rotate(-240.000000) translate(-18.016397, -37.541388) " points="9.62717829 31.2867363 9.62306067 35.7282736 22.5570729 43.7960392 26.4097335 41.5717046"></polygon>
+                <polygon id="Polygon" fill="#2DC4F2" points="25.8417263 8.40304183 39.3260382 16.1882129 39.3260382 31.7585551 25.8417263 39.5437262 12.3574144 31.7585551 12.3574144 16.1882129"></polygon>
+                <path d="M26.2135361,19.4930798 L27.2673764,19.4930798 L27.2673764,28.6692015 L25.8665399,28.6692015 L25.8665399,21.176654 C25.3139163,21.7035741 24.6070722,22.0891255 23.7588593,22.333308 L23.7588593,20.9453232 C24.1701141,20.8425095 24.5942205,20.6625856 25.0568821,20.4055513 C25.5195437,20.1228137 25.9050951,19.8272243 26.2135361,19.4930798 Z" id="1" fill="#0671E1" filter="url(#filter-1)"></path>
+                <path d="M25.7192395,18.9987833 L26.7730798,18.9987833 L26.7730798,28.1749049 L25.3722433,28.1749049 L25.3722433,20.6823574 C24.8196198,21.2092776 24.1127757,21.5948289 23.2645627,21.8390114 L23.2645627,20.4510266 C23.6758175,20.3482129 24.099924,20.168289 24.5625856,19.9112548 C25.0252471,19.6285171 25.4107985,19.3329278 25.7192395,18.9987833 Z" id="1" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

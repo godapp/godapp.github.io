@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="46.0880865%" fx="50%" fy="46.0880865%" r="53.9119135%" gradientTransform="translate(0.500000,0.460881),scale(1.000000,0.875000),rotate(90.000000),translate(-0.500000,-0.460881)" id="radialGradient-1">
+            <stop stop-color="#7A030B" offset="0%"></stop>
+            <stop stop-color="#4B020B" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="100%" fx="50%" fy="100%" r="50%" gradientTransform="translate(0.500000,1.000000),scale(0.547553,1.000000),rotate(-90.000000),translate(-0.500000,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#165190" offset="0%"></stop>
+            <stop stop-color="#023060" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-3">
+            <stop stop-color="#FFF37E" offset="0%"></stop>
+            <stop stop-color="#FECE04" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="主界面-copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-300.000000, -438.000000)">
+        <g id="Group-12" transform="translate(300.000000, 438.000000)">
+            <g id="平局">
+                <path d="M6.50006164,0.0671738923 L11.2499384,2.81647751 C11.404677,2.9060427 11.5,3.071566 11.5,3.25069638 L11.5,8.74930362 C11.5,8.928434 11.404677,9.0939573 11.2499384,9.18352249 L6.50006164,11.9328261 C6.34532296,12.0223913 6.15467704,12.0223913 5.99993836,11.9328261 L1.25006164,9.18352249 C1.09532296,9.0939573 1,8.928434 1,8.74930362 L1,3.25069638 C1,3.071566 1.09532296,2.9060427 1.25006164,2.81647751 L5.99993836,0.0671738923 C6.15467704,-0.0223912974 6.34532296,-0.0223912974 6.50006164,0.0671738923 Z" id="Combined-Shape-Copy-7" fill="url(#radialGradient-1)" fill-rule="nonzero" transform="translate(6.250000, 6.000000) rotate(-270.000000) translate(-6.250000, -6.000000) "></path>
+                <path d="M9.62540983,3.19252208 L14.3752866,5.9418257 C14.5300252,6.03139089 14.6253482,6.19691419 14.6253482,6.37604457 L14.6253482,8.87465181 L4.12534819,8.87465181 L4.12534819,6.37604457 C4.12534819,6.19691419 4.22067115,6.03139089 4.37540983,5.9418257 L9.12528655,3.19252208 C9.28002523,3.10295689 9.47067115,3.10295689 9.62540983,3.19252208 Z" id="Combined-Shape-Copy-7" fill="url(#radialGradient-2)" fill-rule="nonzero" transform="translate(9.375348, 6.000000) rotate(-270.000000) translate(-9.375348, -6.000000) "></path>
+                <polygon id="Star-2" fill="url(#radialGradient-3)" points="6.29998779 7.5 4.53663204 8.42705098 4.87340302 6.46352549 3.44681824 5.07294902 5.41830991 4.78647451 6.29998779 3 7.18166567 4.78647451 9.15315734 5.07294902 7.72657257 6.46352549 8.06334355 8.42705098"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
