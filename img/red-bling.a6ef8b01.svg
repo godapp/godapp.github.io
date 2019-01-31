@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="100px" viewBox="0 0 158 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="4.54747351e-13" width="157.5" height="100"></rect>
+        <filter x="-7.9%" y="-12.4%" width="115.8%" height="124.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4.14899554" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="主界面-copy-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-25.000000, -165.000000)">
+        <g id="Group-8" transform="translate(25.000000, 165.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle-2"></g>
+            <rect id="Rectangle-2" stroke="#178BFF" stroke-width="2" filter="url(#filter-3)" mask="url(#mask-2)" x="1" y="1" width="155.5" height="98"></rect>
+        </g>
+    </g>
+</svg>
