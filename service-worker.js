@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.25530a13b010cc8b22abd3e1a26cabc3.js"
+  "/precache-manifest.8c75cafd4585e2c0cf0c0d1235b36b52.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "godapp"});
+workbox.core.setCacheNameDetails({prefix: "dapp365"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
