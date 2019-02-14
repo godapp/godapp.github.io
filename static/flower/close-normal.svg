@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>关闭-正常</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.747883%" y1="6.64326877%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1B395B" offset="0%"></stop>
+            <stop stop-color="#10243B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设置-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-317.000000, -105.000000)">
+        <g id="Group" transform="translate(16.000000, 89.000000)">
+            <g id="关闭-正常" transform="translate(301.000000, 17.000000)">
+                <polygon id="Path-17" stroke="#174069" stroke-width="0.5" fill="url(#linearGradient-1)" points="4 0 36 0 41 5 41 38 0 0"></polygon>
+                <polygon id="Path-20" fill="#42EDF8" points="26 6 24 8 27 11 24 14 26 16 29 13 32 16 34 14 31 11 34 8 32 6 29 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="100px" viewBox="0 0 215 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>背景</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="215" height="100"></rect>
+        <filter x="-8.4%" y="-18.0%" width="116.7%" height="136.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-4">
+            <stop stop-color="#EC9603" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0.0852864583" offset="50.5121971%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.4%" y="-18.0%" width="116.7%" height="136.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-6">
+            <stop stop-color="#EC9603" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EC9603" offset="50.8569834%"></stop>
+            <stop stop-color="#EC9603" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="提示-等待下注" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-78.000000, -284.000000)">
+        <g id="Group-8-Copy" transform="translate(77.000000, 284.000000)">
+            <g id="背景" transform="translate(1.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-5" filter="url(#filter-2)"></g>
+                <rect id="Rectangle-5" fill="url(#linearGradient-4)" filter="url(#filter-5)" mask="url(#mask-3)" x="0" y="0" width="215" height="100"></rect>
+                <rect id="Rectangle-9-Copy-3" fill="url(#linearGradient-6)" mask="url(#mask-3)" x="0" y="0" width="160" height="2"></rect>
+                <rect id="Rectangle-9-Copy-5" fill="url(#linearGradient-6)" mask="url(#mask-3)" x="1" y="98" width="220" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
