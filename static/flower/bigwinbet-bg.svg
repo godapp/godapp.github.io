@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="195px" height="194px" viewBox="0 0 195 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>中间</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6E542" offset="0%"></stop>
+            <stop stop-color="#E5A025" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="79.6644575 0 143.667859 36.952381 143.667859 110.857143 79.6644575 147.809524 15.6610562 110.857143 15.6610562 36.952381"></polygon>
+        <filter x="-24.4%" y="-21.2%" width="148.9%" height="142.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10.4268973" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <polygon id="path-4" points="79.6644575 0 143.667859 36.952381 143.667859 110.857143 79.6644575 147.809524 15.6610562 110.857143 15.6610562 36.952381"></polygon>
+    </defs>
+    <g id="大赢家-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-90.000000, -221.000000)">
+        <g id="Group-4" transform="translate(89.000000, 244.000000)">
+            <g id="中间">
+                <g id="Group-Copy-5" transform="translate(19.000000, 0.000000)">
+                    <g id="Polygon" opacity="0.595165308" filter="url(#filter-3)">
+                        <use fill-opacity="0.4" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#EFC836" stroke-width="3" d="M79.6644575,1.73205081 L17.1610562,37.8184064 L17.1610562,109.991117 L79.6644575,146.077473 L142.167859,109.991117 L142.167859,37.8184064 L79.6644575,1.73205081 Z"></path>
+                    </g>
+                    <g id="Polygon">
+                        <use fill-opacity="0.4" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <path stroke="#EFC836" stroke-width="3" d="M79.6644575,1.73205081 L17.1610562,37.8184064 L17.1610562,109.991117 L79.6644575,146.077473 L142.167859,109.991117 L142.167859,37.8184064 L79.6644575,1.73205081 Z"></path>
+                    </g>
+                    <polygon id="Path-6" fill="#FCB116" points="79.2380952 12.1904762 79.2380952 25.9047619 118.857143 51.8095238 132.571429 42.6666667"></polygon>
+                    <polygon id="Path-6-Copy-5" fill="#FECE04" transform="translate(53.714286, 32.000000) scale(-1, 1) translate(-53.714286, -32.000000) " points="26.6666667 12.1904762 26.6666667 25.9047619 66.2857143 51.8095238 80.7619048 42.6666667"></polygon>
+                    <polygon id="Path-6-Copy" fill="#FB9200" transform="translate(128.012694, 75.665439) rotate(-300.000000) translate(-128.012694, -75.665439) " points="101.346027 55.8559155 101.346027 69.5702012 140.965075 95.4749631 154.67936 86.332106"></polygon>
+                    <polygon id="Path-6-Copy-4" fill="#FBA703" transform="translate(30.488884, 75.665439) scale(-1, 1) rotate(-300.000000) translate(-30.488884, -75.665439) " points="3.82221752 55.8559155 3.82221752 69.5702012 43.4412651 95.4749631 57.1555509 86.332106"></polygon>
+                    <polygon id="Path-6-Copy-2" fill="#FCB116" transform="translate(102.830585, 115.846362) rotate(-240.000000) translate(-102.830585, -115.846362) " points="77.0415746 96.9200571 77.0288809 110.612357 117.234242 134.772668 128.632289 128.373034"></polygon>
+                    <polygon id="Path-6-Copy-3" fill="#FDCD06" transform="translate(55.540659, 115.731985) scale(-1, 1) rotate(-240.000000) translate(-55.540659, -115.731985) " points="29.6785101 96.4502463 29.6658163 110.142546 69.5385809 135.013724 81.4155007 128.156581"></polygon>
+                    <polygon id="Polygon" fill="#FED958" points="79.6644575 25.9047619 121.233677 49.9047619 121.233677 97.9047619 79.6644575 121.904762 38.0952381 97.9047619 38.0952381 49.9047619"></polygon>
+                </g>
+                <path d="M171.076555,59 L196.842105,59 L196.842105,65.3157895 L175.382775,65.3157895 L171.076555,59 Z M170,65.3157895 L170,59 L170,65.3157895 Z M176.45933,66.8947368 L196.842105,66.8947368 L196.842105,73.2105263 L180.76555,73.2105263 L176.45933,66.8947368 Z M181.842105,74.7894737 L196.842105,74.7894737 L196.842105,81.1052632 L186.148325,81.1052632 L181.842105,74.7894737 Z M187.22488,82.6842105 L196.842105,82.6842105 L196.842105,89 L191.5311,89 L187.22488,82.6842105 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)" transform="translate(183.421053, 74.000000) scale(-1, 1) translate(-183.421053, -74.000000) "></path>
+                <path d="M1.07655502,59 L26.8421053,59 L26.8421053,65.3157895 L5.38277512,65.3157895 L1.07655502,59 Z M0,65.3157895 L0,59 L0,65.3157895 Z M6.45933014,66.8947368 L26.8421053,66.8947368 L26.8421053,73.2105263 L10.7655502,73.2105263 L6.45933014,66.8947368 Z M11.8421053,74.7894737 L26.8421053,74.7894737 L26.8421053,81.1052632 L16.1483254,81.1052632 L11.8421053,74.7894737 Z M17.2248804,82.6842105 L26.8421053,82.6842105 L26.8421053,89 L21.5311005,89 L17.2248804,82.6842105 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
