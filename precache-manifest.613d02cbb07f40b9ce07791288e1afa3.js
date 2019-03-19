@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b88303d3d0f5075a5ae45fa03157d40b",
-    "url": "/img/wintoast.b88303d3.png"
+    "revision": "751b5a1155bc2fc3b6c2908c1095378e",
+    "url": "/img/logo.751b5a11.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "7bb60c85cee67285a357d2319a237a5b",
-    "url": "/img/1.7bb60c85.png"
+    "revision": "8fa45482ef1fd1a1228d60f6dd5a8b40",
+    "url": "/img/back.8fa45482.png"
   },
   {
-    "revision": "16c21cbd2ba0b41a3c2c",
-    "url": "/css/chunk-80dc176a.fd45314c.css"
+    "revision": "e92811aab4b4e541c379",
+    "url": "/css/chunk-0c5b7442.5434e1d8.css"
   },
   {
     "revision": "c1170d566bdc8e3de89e",
@@ -60,10 +60,6 @@ self.__precacheManifest = [
     "url": "/img/betArea_bottom_en.c9160c12.png"
   },
   {
-    "revision": "b8790d4f30fcc4eabb8af8c0763ac07b",
-    "url": "/img/history_bg.b8790d4f.png"
-  },
-  {
     "revision": "a95ac75ceeb4d98f3c5060102fa3fa7e",
     "url": "/img/c-K.a95ac75c.png"
   },
@@ -82,6 +78,10 @@ self.__precacheManifest = [
   {
     "revision": "2910604461581f4d4e71860e8773ae5d",
     "url": "/img/player0.29106044.png"
+  },
+  {
+    "revision": "b8790d4f30fcc4eabb8af8c0763ac07b",
+    "url": "/img/history_bg.b8790d4f.png"
   },
   {
     "revision": "d0dc882695f5ce24e12646510b736c2a",
@@ -108,6 +108,10 @@ self.__precacheManifest = [
     "url": "/img/banker0.aa3c4582.png"
   },
   {
+    "revision": "38fe0678307a5e5b6dae15a9a32557e3",
+    "url": "/img/100.38fe0678.png"
+  },
+  {
     "revision": "a60d71c5be1fe6c70a0abd52a912f79c",
     "url": "/img/h-Q.a60d71c5.png"
   },
@@ -132,14 +136,6 @@ self.__precacheManifest = [
     "url": "/img/c-Q.f8450df3.png"
   },
   {
-    "revision": "84ef7d68f36dfbddf51c0112d94c0b60",
-    "url": "/img/myInfo_bg.84ef7d68.png"
-  },
-  {
-    "revision": "58445ed618f56e384f1b4586d73c64e9",
-    "url": "/img/login_bg.58445ed6.png"
-  },
-  {
     "revision": "8b3fc4464c6458f42b1e255b0265394b",
     "url": "/img/player3.8b3fc446.png"
   },
@@ -148,32 +144,20 @@ self.__precacheManifest = [
     "url": "/img/betArea_bottom.232fcbe4.png"
   },
   {
-    "revision": "6ba76458f79281797ade5270579fe4b0",
-    "url": "/img/50.6ba76458.png"
+    "revision": "b88303d3d0f5075a5ae45fa03157d40b",
+    "url": "/img/wintoast.b88303d3.png"
   },
   {
-    "revision": "ba2b588a2aa65ab40856",
-    "url": "/js/app.238c3a55.js"
+    "revision": "84ef7d68f36dfbddf51c0112d94c0b60",
+    "url": "/img/myInfo_bg.84ef7d68.png"
   },
   {
-    "revision": "16c21cbd2ba0b41a3c2c",
-    "url": "/js/chunk-80dc176a.47c24ede.js"
+    "revision": "6c4e0191ca15be709e1d",
+    "url": "/js/app.a28ac7dc.js"
   },
   {
-    "revision": "df1cdcac78673ae16658cac4b1c5976b",
-    "url": "/img/now_history_bg.df1cdcac.png"
-  },
-  {
-    "revision": "86df4d0c9ecfa0006562a4da41edb680",
-    "url": "/img/history_back_en.86df4d0c.png"
-  },
-  {
-    "revision": "751b5a1155bc2fc3b6c2908c1095378e",
-    "url": "/img/logo.751b5a11.png"
-  },
-  {
-    "revision": "8fa45482ef1fd1a1228d60f6dd5a8b40",
-    "url": "/img/back.8fa45482.png"
+    "revision": "e92811aab4b4e541c379",
+    "url": "/js/chunk-0c5b7442.106a0fdb.js"
   },
   {
     "revision": "2a54b58166ac0d968fbef961043aebb1",
@@ -186,6 +170,10 @@ self.__precacheManifest = [
   {
     "revision": "20dc10f92e07482141015e3285334460",
     "url": "/img/d-Q.20dc10f9.png"
+  },
+  {
+    "revision": "9a5034e45da4c8fb89b021a3856152b1",
+    "url": "/img/500.9a5034e4.png"
   },
   {
     "revision": "30955c22cee58ff2eeabc4c2f3bff4d6",
@@ -206,6 +194,10 @@ self.__precacheManifest = [
   {
     "revision": "c67409a9797bc377081a857e6b2074e8",
     "url": "/img/begin_bet.c67409a9.png"
+  },
+  {
+    "revision": "58445ed618f56e384f1b4586d73c64e9",
+    "url": "/img/login_bg.58445ed6.png"
   },
   {
     "revision": "d0921fa6553da5862e64faa6b25335d0",
@@ -236,8 +228,8 @@ self.__precacheManifest = [
     "url": "/img/player4.64a666c0.png"
   },
   {
-    "revision": "727dafe1232bb97090f4516314f81b36",
-    "url": "/img/10.727dafe1.png"
+    "revision": "19b232a1854c1075a6eeab32dfeb3f6c",
+    "url": "/img/10.19b232a1.png"
   },
   {
     "revision": "839ef14a8ed8902379699b00ee00719d",
@@ -246,6 +238,10 @@ self.__precacheManifest = [
   {
     "revision": "25b348559a41d95aa564ef473de6b43b",
     "url": "/img/winRate.25b34855.png"
+  },
+  {
+    "revision": "1ede8d44e7d47e22245531b712807a34",
+    "url": "/img/5000.1ede8d44.png"
   },
   {
     "revision": "259b5acd31eed62e8fb64097fd3104fe",
@@ -268,10 +264,6 @@ self.__precacheManifest = [
     "url": "/img/begin_bet_en.9d7aba9b.png"
   },
   {
-    "revision": "ade5306f094dac6222b0220eabbff6fc",
-    "url": "/img/5.ade5306f.png"
-  },
-  {
     "revision": "f7b31c2bdcf643df2c8bf881cadd53c6",
     "url": "/img/BG.f7b31c2b.png"
   },
@@ -284,23 +276,31 @@ self.__precacheManifest = [
     "url": "/img/waitText_en.5e850c04.png"
   },
   {
+    "revision": "a08c7c8e47c343c4d5fe8bdf847d2aff",
+    "url": "/img/1000.a08c7c8e.png"
+  },
+  {
     "revision": "51abe0568d98ae81a26b6d74f51199dd",
     "url": "/img/playerWin_en.51abe056.png"
+  },
+  {
+    "revision": "df1cdcac78673ae16658cac4b1c5976b",
+    "url": "/img/now_history_bg.df1cdcac.png"
+  },
+  {
+    "revision": "86df4d0c9ecfa0006562a4da41edb680",
+    "url": "/img/history_back_en.86df4d0c.png"
   },
   {
     "revision": "350410dbf8db8e76c2a2563b06a600a0",
     "url": "/img/player6.350410db.png"
   },
   {
-    "revision": "589cc80448bb280cbde245458d8d87c2",
-    "url": "/img/0.1.589cc804.png"
-  },
-  {
-    "revision": "3d576d653922e06ce23910a62cb454b4",
+    "revision": "e19ee9f3c524bfc4627b9d63d2fecf48",
     "url": "/index.html"
   },
   {
-    "revision": "ba2b588a2aa65ab40856",
+    "revision": "6c4e0191ca15be709e1d",
     "url": "/css/app.d825d683.css"
   },
   {
