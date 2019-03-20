@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/logo.751b5a11.png"
   },
   {
-    "revision": "83a27d013b2818da2261",
-    "url": "/css/chunk-0199c42c.0b8bf87c.css"
+    "revision": "b518f77189bc8f0047c4",
+    "url": "/css/chunk-8f2bc824.196e84d8.css"
   },
   {
     "revision": "c1170d566bdc8e3de89e",
@@ -40,24 +40,16 @@ self.__precacheManifest = [
     "url": "/img/player2.858835a1.png"
   },
   {
+    "revision": "b8790d4f30fcc4eabb8af8c0763ac07b",
+    "url": "/img/history_bg.b8790d4f.png"
+  },
+  {
     "revision": "b170d30d0d238d579af4cafff7d1627f",
     "url": "/img/player7.b170d30d.png"
   },
   {
     "revision": "eeb497c5cd4f44035715d8fd24966ef5",
     "url": "/img/submit_en.eeb497c5.png"
-  },
-  {
-    "revision": "b8790d4f30fcc4eabb8af8c0763ac07b",
-    "url": "/img/history_bg.b8790d4f.png"
-  },
-  {
-    "revision": "84ef7d68f36dfbddf51c0112d94c0b60",
-    "url": "/img/myInfo_bg.84ef7d68.png"
-  },
-  {
-    "revision": "58445ed618f56e384f1b4586d73c64e9",
-    "url": "/img/login_bg.58445ed6.png"
   },
   {
     "revision": "d7e92ee1b62effec185b7a7bf50a1a3e",
@@ -108,6 +100,14 @@ self.__precacheManifest = [
     "url": "/img/d-K.d320becc.png"
   },
   {
+    "revision": "84ef7d68f36dfbddf51c0112d94c0b60",
+    "url": "/img/myInfo_bg.84ef7d68.png"
+  },
+  {
+    "revision": "58445ed618f56e384f1b4586d73c64e9",
+    "url": "/img/login_bg.58445ed6.png"
+  },
+  {
     "revision": "10f3d09cf2ad39139ddf834eda925978",
     "url": "/img/h-9.10f3d09c.png"
   },
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/img/betArea_bottom.232fcbe4.png"
   },
   {
-    "revision": "41967d1b698923f7c172",
-    "url": "/js/app.b0fc0839.js"
+    "revision": "e2828838f7c86bc4339e",
+    "url": "/js/app.f9a72aae.js"
   },
   {
-    "revision": "83a27d013b2818da2261",
-    "url": "/js/chunk-0199c42c.a766ebfe.js"
+    "revision": "b518f77189bc8f0047c4",
+    "url": "/js/chunk-8f2bc824.725d7c2e.js"
   },
   {
     "revision": "8fa45482ef1fd1a1228d60f6dd5a8b40",
@@ -296,11 +296,11 @@ self.__precacheManifest = [
     "url": "/img/player6.350410db.png"
   },
   {
-    "revision": "b5896bafcdb73f0a131d1a5bb7337bbb",
+    "revision": "66d69fef66ce8fe72b30d1d098313450",
     "url": "/index.html"
   },
   {
-    "revision": "41967d1b698923f7c172",
+    "revision": "e2828838f7c86bc4339e",
     "url": "/css/app.d825d683.css"
   },
   {
