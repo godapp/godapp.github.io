@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/img/logo.751b5a11.png"
   },
   {
-    "revision": "be37fb3ef700a7003e63",
+    "revision": "dfd4f31c8284e40f56c2",
     "url": "/css/chunk-6eb30429.638c0d25.css"
   },
   {
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/img/betArea_bottom.232fcbe4.png"
   },
   {
-    "revision": "fdd4156f9c5bc965e61b",
-    "url": "/js/app.445dfe25.js"
+    "revision": "12753b83387728cbf8c8",
+    "url": "/js/app.927151a0.js"
   },
   {
-    "revision": "be37fb3ef700a7003e63",
-    "url": "/js/chunk-6eb30429.3bee7d18.js"
+    "revision": "dfd4f31c8284e40f56c2",
+    "url": "/js/chunk-6eb30429.a5683a72.js"
   },
   {
     "revision": "8fa45482ef1fd1a1228d60f6dd5a8b40",
@@ -296,11 +296,11 @@ self.__precacheManifest = [
     "url": "/img/player6.350410db.png"
   },
   {
-    "revision": "4f160c57014daf8fba68cd6508288fc4",
+    "revision": "81c2017c8aa7da91bcb79d7fb207fe28",
     "url": "/index.html"
   },
   {
-    "revision": "fdd4156f9c5bc965e61b",
+    "revision": "12753b83387728cbf8c8",
     "url": "/css/app.d825d683.css"
   },
   {
