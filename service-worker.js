@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.24521f0f0d68ad112e1a9585e41fac86.js"
+  "/precache-manifest.15370f865c10e573f6b812cb77eb5723.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dapp365"});
