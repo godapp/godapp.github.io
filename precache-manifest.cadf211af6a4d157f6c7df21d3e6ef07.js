@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/panda/selectArea.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
     "revision": "d95aed08b200f508df9b98bedb8c9f29",
     "url": "/panda/waybill_bg.png"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "2ef3c95ef41c5e1072b696b7673fb62b",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/panda/dragonWin_bg.png"
   },
   {
-    "revision": "3d4ca6320f10693d634ea980cd6feab3",
-    "url": "/panda/summary_n.png"
-  },
-  {
     "revision": "49471d04bba2a0f8b6553dd68ae94202",
     "url": "/panda/timer_bg.png"
+  },
+  {
+    "revision": "3d4ca6320f10693d634ea980cd6feab3",
+    "url": "/panda/summary_n.png"
   },
   {
     "revision": "a8ae905b67342620727c1392243eaa71",
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/panda/small_and_en.png"
   },
   {
-    "revision": "b72cfff5d7160c4e0b88bd968225629f",
-    "url": "/panda/rightBottom.png"
-  },
-  {
     "revision": "27f6cf415120529f6683610fac96772f",
     "url": "/panda/rightTop.png"
+  },
+  {
+    "revision": "b72cfff5d7160c4e0b88bd968225629f",
+    "url": "/panda/rightBottom.png"
   },
   {
     "revision": "0eeb01a90ee2b4dfd8970ab90e0808c2",
@@ -232,12 +232,12 @@ self.__precacheManifest = [
     "url": "/panda/player3-en..png"
   },
   {
-    "revision": "ca1f17794c76427cc2962ae1baab7057",
-    "url": "/panda/player2-en.png"
-  },
-  {
     "revision": "c1b124ea77057d563851abfd2ed9c034",
     "url": "/panda/playerWin_en.png"
+  },
+  {
+    "revision": "ca1f17794c76427cc2962ae1baab7057",
+    "url": "/panda/player2-en.png"
   },
   {
     "revision": "c589be13eb135e749c406c7f8c253fb2",
@@ -544,20 +544,20 @@ self.__precacheManifest = [
     "url": "/panda/cards/h-4.png"
   },
   {
-    "revision": "290af25728f9dafac622484dece61667",
-    "url": "/panda/cards/h-3.png"
-  },
-  {
     "revision": "0cbe1c10dbf7637993451c989191f113",
     "url": "/panda/cards/h-2.png"
   },
   {
-    "revision": "20dc10f92e07482141015e3285334460",
-    "url": "/panda/cards/d-Q.png"
+    "revision": "290af25728f9dafac622484dece61667",
+    "url": "/panda/cards/h-3.png"
   },
   {
     "revision": "9be80b6e210fbb0ec44e338f44274dfd",
     "url": "/panda/cards/h-10.png"
+  },
+  {
+    "revision": "20dc10f92e07482141015e3285334460",
+    "url": "/panda/cards/d-Q.png"
   },
   {
     "revision": "d320beccc48a1145f258d666b0147384",
@@ -604,12 +604,12 @@ self.__precacheManifest = [
     "url": "/panda/cards/d-10.png"
   },
   {
-    "revision": "a95ac75ceeb4d98f3c5060102fa3fa7e",
-    "url": "/panda/cards/c-K.png"
-  },
-  {
     "revision": "f8450df3a016bc23966e91ca95713386",
     "url": "/panda/cards/c-Q.png"
+  },
+  {
+    "revision": "a95ac75ceeb4d98f3c5060102fa3fa7e",
+    "url": "/panda/cards/c-K.png"
   },
   {
     "revision": "60f1158731b568c8c9c3227f3b8f035b",
@@ -664,20 +664,20 @@ self.__precacheManifest = [
     "url": "/img/playerWin_en.c1b124ea.png"
   },
   {
-    "revision": "6d387def0629bfee1bee",
-    "url": "/js/chunk-2a8542ea.039536dd.js"
+    "revision": "087cefb932002f8b07ea",
+    "url": "/js/chunk-35c5296d.182843a0.js"
   },
   {
-    "revision": "d9ea7564fc194f33f9b1",
-    "url": "/js/chunk-686dfcd3.dc8b093b.js"
+    "revision": "0adacdd19f552ad3151e",
+    "url": "/js/chunk-504e9df6.3a5da78e.js"
   },
   {
     "revision": "2ef3c95ef41c5e1072b696b7673fb62b",
     "url": "/img/waitText_en.2ef3c95e.png"
   },
   {
-    "revision": "ec32ae070be50a3206ff",
-    "url": "/js/chunk-d299a9ec.ae0777fa.js"
+    "revision": "11622164a323f73a3744",
+    "url": "/js/chunk-d299a9ec.0f350155.js"
   },
   {
     "revision": "c1170d566bdc8e3de89e",
@@ -796,7 +796,7 @@ self.__precacheManifest = [
     "url": "/panda/begin_bet.png"
   },
   {
-    "revision": "92784d633ac6a28764de0522ec0e2077",
+    "revision": "fc00550c85a99ca4a978050584556759",
     "url": "/index.html"
   },
   {
@@ -804,12 +804,12 @@ self.__precacheManifest = [
     "url": "/panda/bearWin_bg.png"
   },
   {
-    "revision": "51ef2d0ed299f1fa9882c11a4a8306cb",
-    "url": "/panda/0.5.png"
-  },
-  {
     "revision": "50dc4541878a271c2cddc0d93f9fc428",
     "url": "/panda/1.png"
+  },
+  {
+    "revision": "51ef2d0ed299f1fa9882c11a4a8306cb",
+    "url": "/panda/0.5.png"
   },
   {
     "revision": "cdeb3ff0390a035ff0fb19fb3f16916b",
@@ -836,8 +836,8 @@ self.__precacheManifest = [
     "url": "/panda/back.png"
   },
   {
-    "revision": "1dd6aa9b68047427c839",
-    "url": "/js/app.c254d6a2.js"
+    "revision": "a7a8c339426a4375c407",
+    "url": "/js/app.1814cc85.js"
   },
   {
     "revision": "ee6eb3948046ad3a54c15d90f5d0e95d",
@@ -888,12 +888,12 @@ self.__precacheManifest = [
     "url": "/panda/banker5-cn.png"
   },
   {
-    "revision": "6ba6dc35715546ba9c064d4e278d6c15",
-    "url": "/panda/banker5-en.png"
-  },
-  {
     "revision": "a24d189f6c56911e06c0885e629a3196",
     "url": "/panda/banker6-cn.png"
+  },
+  {
+    "revision": "6ba6dc35715546ba9c064d4e278d6c15",
+    "url": "/panda/banker5-en.png"
   },
   {
     "revision": "fd9d4854f54db72d9cb19cea618ba57d",
@@ -1032,6 +1032,14 @@ self.__precacheManifest = [
     "url": "/panda/bankerWin_bg.png"
   },
   {
+    "revision": "2e8ae345e6577dd1635ec385039719e1",
+    "url": "/panda/0.1.png"
+  },
+  {
+    "revision": "aa86296e48eb39026a84ad6d4a536ab7",
+    "url": "/media/btn.aa86296e.mp3"
+  },
+  {
     "revision": "25361a675fa05571147540d6de1540c9",
     "url": "/img/submit_button_en_n.25361a67.png"
   },
@@ -1046,14 +1054,6 @@ self.__precacheManifest = [
   {
     "revision": "412895f9100aaf65a3f6809126ea77bc",
     "url": "/img/revoke_button_n.412895f9.png"
-  },
-  {
-    "revision": "2e8ae345e6577dd1635ec385039719e1",
-    "url": "/panda/0.1.png"
-  },
-  {
-    "revision": "aa86296e48eb39026a84ad6d4a536ab7",
-    "url": "/media/btn.aa86296e.mp3"
   },
   {
     "revision": "30955c22cee58ff2eeabc4c2f3bff4d6",
@@ -1652,19 +1652,19 @@ self.__precacheManifest = [
     "url": "/img/0.5.51ef2d0e.png"
   },
   {
-    "revision": "ec32ae070be50a3206ff",
+    "revision": "11622164a323f73a3744",
     "url": "/css/chunk-d299a9ec.66c1f7c4.css"
   },
   {
-    "revision": "d9ea7564fc194f33f9b1",
-    "url": "/css/chunk-686dfcd3.17558e26.css"
+    "revision": "0adacdd19f552ad3151e",
+    "url": "/css/chunk-504e9df6.e5367dc5.css"
   },
   {
-    "revision": "6d387def0629bfee1bee",
-    "url": "/css/chunk-2a8542ea.f6833f25.css"
+    "revision": "087cefb932002f8b07ea",
+    "url": "/css/chunk-35c5296d.17558e26.css"
   },
   {
-    "revision": "1dd6aa9b68047427c839",
+    "revision": "a7a8c339426a4375c407",
     "url": "/css/app.d825d683.css"
   },
   {
